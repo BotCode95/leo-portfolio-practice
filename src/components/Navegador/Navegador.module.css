@@ -1,0 +1,17 @@
+
+
+.link{
+    text-decoration: none; /* none = ninguno */
+    margin-left: 25px;
+    font-size: 24px;
+}
+
+.link:last-child{
+    padding-right: 20px;
+
+}
+
+
+.link_noactive {
+    color: white;
+}
